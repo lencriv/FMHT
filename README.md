@@ -7,21 +7,17 @@ This repository contains code and data for analyzing neural recordings from mice
 
 ## Repository Structure
 
-### 📊 `primary_analysis/`
+### 📊 [`primary_analysis/`](./primary_analysis/)
 MATLAB code for analyzing and visualizing behavioral and electrophysiological data collected during the freely moving hunger and thirst paradigm.
 
-### 🔄 `unitmatch_folder/`
+### 🔄 [`unitmatch_folder/`](./unitmatch_folder/)
 MATLAB implementation extending the [UnitMatch framework](https://github.com/EnnyvanBeest/UnitMatch) to track individual neurons across multiple recording days.
 
-### ⚡ `ephys_preprocessing/`
-Python utilities for preprocessing electrophysiological data from neural recordings, including spike sorting and feature extraction.
+### ⚡ [`ephys_preprocessing/`](./ephys_preprocessing/)
+Python utilities for preprocessing electrophysiological data from neuropixels recordings
 
-### 🧠 `anatomy/`
-Python code for registering neural recording sites to the Allen Brain Atlas, enabling anatomical localization of recorded units.
-
-## Getting Started
-
-*Instructions for installing dependencies and running the analysis will be provided here*
+### 🧠 [`anatomy/`](./anatomy/)
+Python code for registering neural recording sites to the Allen Brain Atlas
 
 ## Citation
 
