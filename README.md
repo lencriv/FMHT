@@ -16,7 +16,8 @@ MATLAB code for analyzing and visualizing behavioral and electrophysiological da
 MATLAB implementation extending the [UnitMatch framework](https://github.com/EnnyvanBeest/UnitMatch) to track individual neurons across multiple recording days.
 
 ### ⚡ [`ephys_preprocessing/`](./ephys_preprocessing/)
-Python utilities for preprocessing electrophysiological data from neuropixels recordings
+Python utilities for preprocessing electrophysiological data from neuropixels recordings. 
+based in large part upon [brainwide neuropixels analysis](https://github.com/erichamc/brainwide-npix)
 
 ### 🧠 [`anatomy/`](./anatomy/)
 Python code for registering neural recording sites to the Allen Brain Atlas
